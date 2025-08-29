@@ -31,7 +31,7 @@ L’architecture s’appuie sur les piliers suivants :
 
 📌 Schéma d’architecture globale :  
 
-![Architecture](docs/architecture.png)
+![Architecture](Docs/taskshare-infra.png)
 
 ---
 
