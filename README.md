@@ -38,16 +38,13 @@ L’architecture s’appuie sur les piliers suivants :
 ## 📂 Dépôts satellites
 
 🔹 **Infrastructure & Cloud**
-- [Terraform – Provisionnement AWS](https://github.com/ton-user/terrafom-taskshare)  
-- [Ansible – Déploiement K3s](https://github.com/ton-user/ansible-deploy-k3s)  
-- [Ansible – Déploiement de Taskshare](https://github.com/ton-user/taskshare-ansible)  
+- [Terraform – Provisionnement PROXMOX](https://github.com/ibrahimbakayoko/terrafom-taskshare.git)  
+- [Ansible – Déploiement des services](https://github.com/ibrahimbakayoko/taskshare-ansible.git)  
+- [Ansible – Déploiement de Taskshare](https://github.com/ibrahimbakayoko/taskshare-backend.git)  
 
 🔹 **Application**
-- [Backend Taskshare (Node.js)](https://github.com/ton-user/taskshare-backend)  
-
-🔹 **Expérimentations AWS & DevOps**
-- [AWS DevOps Journey](https://github.com/ton-user/aws-devops-journey)  
-
+- [Backend Taskshare (Node.js)](https://github.com/ibrahimbakayoko/taskshare-backend.git)  
+ 
 ---
 
 ## 📖 Documentation complète
