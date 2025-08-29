@@ -51,7 +51,7 @@ L’architecture s’appuie sur les piliers suivants :
 
 Le rapport détaillé du projet (contexte, conception, déploiement, CI/CD, monitoring, sécurité) est disponible dans :  
 
-👉 [📘 docs/rapport.md](docs/rapport.md)  
+👉 [📘 docs/rapport.md](Docs/Rapport-TaskShare(2).pdf)  
 
 ---
 
